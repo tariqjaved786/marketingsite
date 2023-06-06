@@ -1,0 +1,418 @@
+0000.001 (0) Opened log file at time: Mon, 05 Jun 2023 10:20:30 +0000 on http://tariqjaved.local
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.4 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT DESKTOP-BHO2ST6 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.4M | 10M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 80478.7 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.045 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.062 (0) Set semaphore last lock (fd) time to 2023-06-05 10:20:30
+0000.065 (0) Semaphore lock (fd) complete
+0000.080 (0) Backup run: resumption=0, nonce=e3198dbb13fa, file_nonce=e3198dbb13fa begun at=1685960430 (0s ago), job type=backup
+0000.087 (0) Scheduling a resumption (1) after 300 seconds (1685960730) in case this run gets aborted
+0000.171 (0) Checking if we have a zip executable available
+0000.181 (0) Creation of backups of directories: beginning
+0000.197 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.374 (0) Total entities for the zip file: 923 directories, 4264 files (0 skipped as non-modified), 88.5 MB
+0002.455 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.524 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.593 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.659 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.724 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.787 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.848 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.853 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.1 MB, 701 (701) files added so far); re-opening (prior size: 0 KB)
+0016.315 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 800 files added (on-disk size: 5701.6 KB)
+0016.379 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 900 files added (on-disk size: 5701.6 KB)
+0016.438 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1000 files added (on-disk size: 5701.6 KB)
+0016.499 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1100 files added (on-disk size: 5701.6 KB)
+0016.558 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1200 files added (on-disk size: 5701.6 KB)
+0016.617 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1300 files added (on-disk size: 5701.6 KB)
+0016.678 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1400 files added (on-disk size: 5701.6 KB)
+0016.739 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1500 files added (on-disk size: 5701.6 KB)
+0016.797 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1600 files added (on-disk size: 5701.6 KB)
+0016.860 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1700 files added (on-disk size: 5701.6 KB)
+0016.866 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.5 MB, 4264 files batched, 1001 (1702) added so far); re-opening (prior size: 5701.6 KB)
+0038.483 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1800 files added (on-disk size: 13162 KB)
+0038.549 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 1900 files added (on-disk size: 13162 KB)
+0038.607 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2000 files added (on-disk size: 13162 KB)
+0038.666 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2100 files added (on-disk size: 13162 KB)
+0038.724 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2200 files added (on-disk size: 13162 KB)
+0038.784 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2300 files added (on-disk size: 13162 KB)
+0038.845 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2400 files added (on-disk size: 13162 KB)
+0038.905 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2500 files added (on-disk size: 13162 KB)
+0038.968 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2600 files added (on-disk size: 13162 KB)
+0039.033 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2700 files added (on-disk size: 13162 KB)
+0039.039 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.2 MB, 4264 files batched, 1001 (2703) added so far); re-opening (prior size: 13162 KB)
+0057.661 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2800 files added (on-disk size: 20365.4 KB)
+0057.730 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 2900 files added (on-disk size: 20365.4 KB)
+0057.801 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3000 files added (on-disk size: 20365.4 KB)
+0057.861 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3100 files added (on-disk size: 20365.4 KB)
+0057.928 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3200 files added (on-disk size: 20365.4 KB)
+0057.994 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3300 files added (on-disk size: 20365.4 KB)
+0058.058 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3400 files added (on-disk size: 20365.4 KB)
+0058.132 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3500 files added (on-disk size: 20365.4 KB)
+0058.190 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3600 files added (on-disk size: 20365.4 KB)
+0058.247 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3700 files added (on-disk size: 20365.4 KB)
+0058.253 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.3 MB, 4264 files batched, 1001 (3704) added so far); re-opening (prior size: 20365.4 KB)
+0074.759 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3800 files added (on-disk size: 27392.5 KB)
+0074.823 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 3900 files added (on-disk size: 27392.5 KB)
+0074.883 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 4000 files added (on-disk size: 27392.5 KB)
+0074.944 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 4100 files added (on-disk size: 27392.5 KB)
+0075.004 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.tmp: 4200 files added (on-disk size: 27392.5 KB)
+0092.059 (0) Creating zip file manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.list-temp.tmp)
+0092.093 (0) Successfully created zip file manifest (size: 345381)
+0092.560 (0) Created plugins zip (0) - 28762.7 KB in 92.4 s (311.4 KB/s) (sha1: 41df47f8103b27d646bced7ce3e80f87eea190e5, sha256: 3d5154932b3ab32f2415b973c18bbe7c18bf9ab5005214e50df5e9d474561f1c)
+0092.579 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0092.584 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-02ea886173eff6047604ad761fde594b)
+0098.115 (0) Google Drive: quota usage: used=68.8 MB, total=15360 MB, available=15291.2 MB
+0098.124 (0) Google Drive: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip: Attempting to upload to Google Drive (into folder id: 1UNVu_rFLl8AzlCxxXTvULf6uPEucOl07)
+0105.817 (0) Googledrive chunked upload: 3.6 % uploaded (1048576)
+0111.054 (0) Googledrive chunked upload: 7.1 % uploaded (2097152)
+0114.719 (0) Googledrive chunked upload: 10.7 % uploaded (3145728)
+0118.411 (0) Googledrive chunked upload: 14.2 % uploaded (4194304)
+0134.747 (0) Googledrive chunked upload: 17.8 % uploaded (5242880)
+0140.925 (0) Googledrive chunked upload: 21.4 % uploaded (6291456)
+0149.893 (0) Googledrive chunked upload: 24.9 % uploaded (7340032)
+0160.918 (0) Googledrive chunked upload: 28.5 % uploaded (8388608)
+0164.781 (0) Googledrive chunked upload: 32 % uploaded (9437184)
+0168.310 (0) Googledrive chunked upload: 35.6 % uploaded (10485760)
+0172.267 (0) Googledrive chunked upload: 39.2 % uploaded (11534336)
+0176.221 (0) Googledrive chunked upload: 42.7 % uploaded (12582912)
+0179.941 (0) Googledrive chunked upload: 46.3 % uploaded (13631488)
+0184.174 (0) Googledrive chunked upload: 49.8 % uploaded (14680064)
+0188.404 (0) Googledrive chunked upload: 53.4 % uploaded (15728640)
+0192.167 (0) Googledrive chunked upload: 57 % uploaded (16777216)
+0197.115 (0) Googledrive chunked upload: 60.5 % uploaded (17825792)
+0210.162 (0) Googledrive chunked upload: 64.1 % uploaded (18874368)
+0216.105 (0) Googledrive chunked upload: 67.6 % uploaded (19922944)
+0226.966 (0) Googledrive chunked upload: 71.2 % uploaded (20971520)
+0230.565 (0) Googledrive chunked upload: 74.8 % uploaded (22020096)
+0234.079 (0) Googledrive chunked upload: 78.3 % uploaded (23068672)
+0238.006 (0) Googledrive chunked upload: 81.9 % uploaded (24117248)
+0243.244 (0) Googledrive chunked upload: 85.4 % uploaded (25165824)
+0246.839 (0) Googledrive chunked upload: 89 % uploaded (26214400)
+0261.375 (0) The scheduled resumption is within 45 seconds - will reschedule
+0261.384 (0) Rescheduling resumption 1: moving to 345 seconds from now (1685961036)
+0261.399 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0261.403 (0) Googledrive chunked upload: 92.6 % uploaded (27262976)
+0265.002 (0) Googledrive chunked upload: 96.1 % uploaded (28311552)
+0268.631 (0) Googledrive chunked upload: 99.7 % uploaded (29360128)
+0272.196 (0) Googledrive chunked upload: 100 % uploaded (29360128)
+0272.208 (0) Google Drive: OK: Archive backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip uploaded in 174.08 seconds
+0272.211 (0) Recording as successfully uploaded: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip
+0272.224 (0) Deleting local file: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip: OK
+0272.242 (0) Beginning creation of dump of themes (split every: 400 MB)
+0272.788 (0) Total entities for the zip file: 381 directories, 1050 files (0 skipped as non-modified), 29.8 MB
+0272.856 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0272.919 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0272.992 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0273.060 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0273.143 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0273.207 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0273.270 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0273.333 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0273.393 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0273.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 1050 files batched, 934 (934) added so far); re-opening (prior size: 0 KB)
+0292.410 (0) A useful amount of data was added after this amount of zip processing: 20.6 s (normalised: 20.4 s, rate: 1253.8 KB/s)
+0292.417 (0) Performance is good - will increase the amount of data we attempt to batch (time=20.561280012131, normalised_time=20.417951513231, max_time=292.41209506989, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0292.475 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.tmp: 1000 files added (on-disk size: 11377.6 KB)
+0294.333 (0) Creating zip file manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.list-temp.tmp)
+0294.346 (0) Successfully created zip file manifest (size: 86088)
+0294.618 (0) Created themes zip (0) - 15971.5 KB in 22.4 s (714.1 KB/s) (sha1: 15f2eefd3edf0bd8b10fccb88673886004234911, sha256: e6b8c22c78aea85dd56ef25bd8d0b653222f49af6deafa688485380e84e3d478)
+0294.634 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0294.638 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-02ea886173eff6047604ad761fde594b)
+0296.421 (0) Google Drive: quota usage: used=96.9 MB, total=15360 MB, available=15263.1 MB
+0296.431 (0) Google Drive: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip: Attempting to upload to Google Drive (into folder id: 1UNVu_rFLl8AzlCxxXTvULf6uPEucOl07)
+0302.125 (0) Googledrive chunked upload: 6.4 % uploaded (1048576)
+0305.689 (0) Googledrive chunked upload: 12.8 % uploaded (2097152)
+0309.887 (0) Googledrive chunked upload: 19.2 % uploaded (3145728)
+0314.463 (0) Googledrive chunked upload: 25.6 % uploaded (4194304)
+0318.045 (0) The time we have been running (318) is approaching the resumption interval (345) - increasing resumption interval to 349
+0318.054 (0) Googledrive chunked upload: 32.1 % uploaded (5242880)
+0322.263 (0) The time we have been running (322.2) is approaching the resumption interval (349) - increasing resumption interval to 353
+0322.272 (0) Googledrive chunked upload: 38.5 % uploaded (6291456)
+0325.809 (0) The time we have been running (325.8) is approaching the resumption interval (353) - increasing resumption interval to 356
+0325.816 (0) Googledrive chunked upload: 44.9 % uploaded (7340032)
+0329.661 (0) The time we have been running (329.6) is approaching the resumption interval (356) - increasing resumption interval to 360
+0329.669 (0) Googledrive chunked upload: 51.3 % uploaded (8388608)
+0333.448 (0) The time we have been running (333.4) is approaching the resumption interval (360) - increasing resumption interval to 364
+0333.457 (0) Googledrive chunked upload: 57.7 % uploaded (9437184)
+0337.009 (0) The time we have been running (337) is approaching the resumption interval (364) - increasing resumption interval to 367
+0337.017 (0) Googledrive chunked upload: 64.1 % uploaded (10485760)
+0345.116 (0) The time we have been running (345.1) is approaching the resumption interval (367) - increasing resumption interval to 376
+0345.124 (0) Googledrive chunked upload: 70.5 % uploaded (11534336)
+0349.594 (0) The time we have been running (349.6) is approaching the resumption interval (376) - increasing resumption interval to 380
+0349.603 (0) Googledrive chunked upload: 76.9 % uploaded (12582912)
+0353.149 (0) The time we have been running (353.1) is approaching the resumption interval (380) - increasing resumption interval to 384
+0353.157 (0) Googledrive chunked upload: 83.3 % uploaded (13631488)
+0356.996 (0) The time we have been running (357) is approaching the resumption interval (384) - increasing resumption interval to 387
+0357.004 (0) Googledrive chunked upload: 89.8 % uploaded (14680064)
+0360.551 (0) The time we have been running (360.5) is approaching the resumption interval (387) - increasing resumption interval to 391
+0360.560 (0) Googledrive chunked upload: 96.2 % uploaded (15728640)
+0365.102 (0) The time we have been running (365.1) is approaching the resumption interval (391) - increasing resumption interval to 396
+0365.111 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0365.124 (0) Google Drive: OK: Archive backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip uploaded in 68.69 seconds
+0365.127 (0) Recording as successfully uploaded: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip
+0365.243 (0) Deleting local file: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip: OK
+0365.258 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0365.262 (0) Looking for candidates to backup in: C:\Users\Tariq\Local Sites\tariqjaved\app\public/wp-content/uploads
+0365.266 (0) finding files: 2021: adding to list (1)
+0365.270 (0) finding files: 2022: adding to list (2)
+0365.274 (0) finding files: 2023: adding to list (3)
+0365.278 (0) finding files: astra-sites: adding to list (4)
+0365.282 (0) finding files: custom-css-js: adding to list (5)
+0365.286 (0) finding files: elementor: adding to list (6)
+0365.290 (0) finding files: wpforms: adding to list (7)
+0365.294 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0365.437 (0) Total entities for the zip file: 15 directories, 375 files (0 skipped as non-modified), 34.9 MB
+0365.498 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0365.557 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0365.616 (0) Zip: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0367.265 (0) The time we have been running (367.3) is approaching the resumption interval (396) - increasing resumption interval to 398
+0367.275 (0) Creating zip file manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip.list-temp.tmp)
+0367.282 (0) Successfully created zip file manifest (size: 23321)
+0367.785 (0) Created uploads zip (0) - 31337.7 KB in 2.5 s (12634.6 KB/s) (sha1: 76c213e29dd46293121cdd7731581e74df73e008, sha256: 5602b28e4f1c2dd11627d8e4554708b56322e4e76847250dfbc23cb32c784407)
+0367.800 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0367.805 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-02ea886173eff6047604ad761fde594b)
+0369.612 (0) Google Drive: quota usage: used=112.5 MB, total=15360 MB, available=15247.5 MB
+0369.622 (0) Google Drive: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip: Attempting to upload to Google Drive (into folder id: 1UNVu_rFLl8AzlCxxXTvULf6uPEucOl07)
+0375.725 (0) The time we have been running (375.7) is approaching the resumption interval (398) - increasing resumption interval to 406
+0375.733 (0) Googledrive chunked upload: 3.3 % uploaded (1048576)
+0379.575 (0) The time we have been running (379.6) is approaching the resumption interval (406) - increasing resumption interval to 410
+0379.584 (0) Googledrive chunked upload: 6.5 % uploaded (2097152)
+0383.707 (0) The time we have been running (383.7) is approaching the resumption interval (410) - increasing resumption interval to 414
+0383.716 (0) Googledrive chunked upload: 9.8 % uploaded (3145728)
+0387.284 (0) The time we have been running (387.3) is approaching the resumption interval (414) - increasing resumption interval to 418
+0387.293 (0) Googledrive chunked upload: 13.1 % uploaded (4194304)
+0391.202 (0) The time we have been running (391.2) is approaching the resumption interval (418) - increasing resumption interval to 422
+0391.210 (0) Googledrive chunked upload: 16.3 % uploaded (5242880)
+0394.812 (0) The time we have been running (394.8) is approaching the resumption interval (422) - increasing resumption interval to 425
+0394.819 (0) Googledrive chunked upload: 19.6 % uploaded (6291456)
+0398.351 (0) The time we have been running (398.3) is approaching the resumption interval (425) - increasing resumption interval to 429
+0398.358 (0) Googledrive chunked upload: 22.9 % uploaded (7340032)
+0402.665 (0) The time we have been running (402.7) is approaching the resumption interval (429) - increasing resumption interval to 433
+0402.674 (0) Googledrive chunked upload: 26.1 % uploaded (8388608)
+0406.233 (0) The time we have been running (406.2) is approaching the resumption interval (433) - increasing resumption interval to 437
+0406.243 (0) Googledrive chunked upload: 29.4 % uploaded (9437184)
+0409.763 (0) The time we have been running (409.8) is approaching the resumption interval (437) - increasing resumption interval to 440
+0409.773 (0) Googledrive chunked upload: 32.7 % uploaded (10485760)
+0414.042 (0) The time we have been running (414) is approaching the resumption interval (440) - increasing resumption interval to 445
+0414.050 (0) Googledrive chunked upload: 35.9 % uploaded (11534336)
+0417.888 (0) The time we have been running (417.9) is approaching the resumption interval (445) - increasing resumption interval to 448
+0417.895 (0) Googledrive chunked upload: 39.2 % uploaded (12582912)
+0423.405 (0) The time we have been running (423.4) is approaching the resumption interval (448) - increasing resumption interval to 454
+0423.413 (0) Googledrive chunked upload: 42.5 % uploaded (13631488)
+0433.108 (0) The time we have been running (433.1) is approaching the resumption interval (454) - increasing resumption interval to 464
+0433.117 (0) Googledrive chunked upload: 45.7 % uploaded (14680064)
+0439.889 (0) The time we have been running (439.9) is approaching the resumption interval (464) - increasing resumption interval to 470
+0439.898 (0) Googledrive chunked upload: 49 % uploaded (15728640)
+0443.845 (0) The time we have been running (443.8) is approaching the resumption interval (470) - increasing resumption interval to 474
+0443.853 (0) Googledrive chunked upload: 52.3 % uploaded (16777216)
+0447.853 (0) The time we have been running (447.8) is approaching the resumption interval (474) - increasing resumption interval to 478
+0447.861 (0) Googledrive chunked upload: 55.5 % uploaded (17825792)
+0451.746 (0) The time we have been running (451.7) is approaching the resumption interval (478) - increasing resumption interval to 482
+0451.755 (0) Googledrive chunked upload: 58.8 % uploaded (18874368)
+0456.750 (0) The time we have been running (456.7) is approaching the resumption interval (482) - increasing resumption interval to 487
+0456.758 (0) Googledrive chunked upload: 62.1 % uploaded (19922944)
+0460.523 (0) The time we have been running (460.5) is approaching the resumption interval (487) - increasing resumption interval to 491
+0460.532 (0) Googledrive chunked upload: 65.4 % uploaded (20971520)
+0466.537 (0) The time we have been running (466.5) is approaching the resumption interval (491) - increasing resumption interval to 497
+0466.546 (0) Googledrive chunked upload: 68.6 % uploaded (22020096)
+0470.103 (0) The time we have been running (470.1) is approaching the resumption interval (497) - increasing resumption interval to 501
+0470.113 (0) Googledrive chunked upload: 71.9 % uploaded (23068672)
+0473.779 (0) The time we have been running (473.8) is approaching the resumption interval (501) - increasing resumption interval to 504
+0473.787 (0) Googledrive chunked upload: 75.2 % uploaded (24117248)
+0477.670 (0) The time we have been running (477.7) is approaching the resumption interval (504) - increasing resumption interval to 508
+0477.679 (0) Googledrive chunked upload: 78.4 % uploaded (25165824)
+0484.261 (0) The time we have been running (484.2) is approaching the resumption interval (508) - increasing resumption interval to 515
+0484.270 (0) Googledrive chunked upload: 81.7 % uploaded (26214400)
+0488.485 (0) The time we have been running (488.5) is approaching the resumption interval (515) - increasing resumption interval to 519
+0488.494 (0) Googledrive chunked upload: 85 % uploaded (27262976)
+0492.122 (0) The time we have been running (492.1) is approaching the resumption interval (519) - increasing resumption interval to 523
+0492.130 (0) Googledrive chunked upload: 88.2 % uploaded (28311552)
+0496.039 (0) The time we have been running (496) is approaching the resumption interval (523) - increasing resumption interval to 527
+0496.046 (0) Googledrive chunked upload: 91.5 % uploaded (29360128)
+0499.665 (0) The time we have been running (499.7) is approaching the resumption interval (527) - increasing resumption interval to 530
+0499.675 (0) Googledrive chunked upload: 94.8 % uploaded (30408704)
+0503.593 (0) The time we have been running (503.6) is approaching the resumption interval (530) - increasing resumption interval to 534
+0503.602 (0) Googledrive chunked upload: 98 % uploaded (31457280)
+0508.675 (0) The time we have been running (508.7) is approaching the resumption interval (534) - increasing resumption interval to 539
+0508.682 (0) Googledrive chunked upload: 100 % uploaded (31457280)
+0508.693 (0) Google Drive: OK: Archive backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip uploaded in 139.07 seconds
+0508.697 (0) Recording as successfully uploaded: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip
+0508.711 (0) Deleting local file: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip: OK
+0508.725 (0) Beginning backup of other directories found in the content directory (index: 0)
+0508.729 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0508.732 (0) Looking for candidates to backup in: C:\Users\Tariq\Local Sites\tariqjaved\app\public/wp-content
+0508.735 (0) finding files: index.php: adding to list (1)
+0508.738 (0) finding files: plugins: skipping: this is the plugins directory
+0508.742 (0) finding files: themes: skipping: this is the themes directory
+0508.745 (0) finding files: updraft: skipping: this is the updraft directory
+0508.748 (0) finding files: upgrade: skipping: excluded by options
+0508.750 (0) finding files: uploads: skipping: this is the uploads directory
+0508.763 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0508.812 (0) Creating zip file manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip.list-temp.tmp)
+0508.816 (0) Successfully created zip file manifest (size: 43)
+0508.840 (0) Created others zip (0) - 0.1 KB in 0.1 s (1.8 KB/s) (sha1: ed69a14ad944ff662a1b26a9260604367eef061d, sha256: 7f971f74e852df813107f6ec0bf3e0b55f4cb203b276938025231ed09bf9b112)
+0508.856 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0508.863 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-02ea886173eff6047604ad761fde594b)
+0510.697 (0) Google Drive: quota usage: used=143.1 MB, total=15360 MB, available=15216.9 MB
+0510.707 (0) Google Drive: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip: Attempting to upload to Google Drive (into folder id: 1UNVu_rFLl8AzlCxxXTvULf6uPEucOl07)
+0515.416 (0) The time we have been running (515.4) is approaching the resumption interval (539) - increasing resumption interval to 546
+0515.428 (0) Googledrive chunked upload: 100 % uploaded
+0515.440 (0) Google Drive: OK: Archive backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip uploaded in 4.73 seconds
+0515.444 (0) Recording as successfully uploaded: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip
+0515.453 (0) Deleting local file: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip: OK
+0515.478 (0) Saving backup status to database (elements: 8)
+0515.488 (0) Beginning creation of database dump (WordPress DB)
+0515.493 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0515.664 (0) Table wp_options: Total expected rows (via COUNT): 366
+0515.668 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.015 (0) Table wp_options: Rows added in this batch (next record: 1569): 361 (uncompressed bytes in this segment=6449627) in 0.49 seconds
+0516.039 (0) The time we have been running (516) is approaching the resumption interval (546) - increasing resumption interval to 547
+0516.053 (0) Table wp_options: finishing file(s) (2, 770.8 KB)
+0516.071 (0) Table wp_users: Total expected rows (via COUNT): 1
+0516.074 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.082 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1407) in 0.02 seconds
+0516.101 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0516.119 (0) Table wp_usermeta: Total expected rows (via COUNT): 31
+0516.123 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.133 (0) Table wp_usermeta: Rows added in this batch (next record: 31): 31 (uncompressed bytes in this segment=3840) in 0.02 seconds
+0516.158 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0516.179 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 23
+0516.183 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.194 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 30): 23 (uncompressed bytes in this segment=10262) in 0.02 seconds
+0516.219 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.6 KB)
+0516.236 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0516.244 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0516.264 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0516.279 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0516.283 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.292 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=706) in 0.02 seconds
+0516.311 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0516.327 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 59
+0516.332 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.341 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 61): 59 (uncompressed bytes in this segment=5790) in 0.02 seconds
+0516.360 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.1 KB)
+0516.380 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0516.386 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.02 seconds
+0516.410 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0516.426 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0516.430 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0516.439 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.02 seconds
+0516.458 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0516.479 (0) Table wp_links: Total expected rows (via COUNT): 0
+0516.488 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.02 seconds
+0516.507 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0516.898 (0) Table wp_postmeta: Total expected rows (approximate): 2000
+0517.288 (0) Table wp_postmeta: Rows added in this batch (next record: 3842): 3304 (uncompressed bytes in this segment=11181249) in 0.77 seconds
+0517.308 (0) The time we have been running (517.3) is approaching the resumption interval (547) - increasing resumption interval to 548
+0517.323 (0) Table wp_postmeta: finishing file(s) (2, 1108.2 KB)
+0517.404 (0) Table wp_posts: Total expected rows (via COUNT): 473
+0517.408 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0517.517 (0) Table wp_posts: Rows added in this batch (next record: 1447): 473 (uncompressed bytes in this segment=2097386) in 0.18 seconds
+0517.543 (0) Table wp_posts: finishing file(s) (2, 80.8 KB)
+0517.558 (0) Table wp_term_relationships: Total expected rows (approximate): 14
+0517.604 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 17 (uncompressed bytes in this segment=929) in 0.05 seconds
+0517.653 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0517.676 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 6
+0517.680 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0517.691 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1117) in 0.02 seconds
+0517.715 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0517.739 (0) Table wp_termmeta: Total expected rows (via COUNT): 2
+0517.743 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0517.749 (0) Table wp_termmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=796) in 0.02 seconds
+0517.773 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0517.789 (0) Table wp_terms: Total expected rows (via COUNT): 6
+0517.794 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0517.800 (0) Table wp_terms: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=901) in 0.01 seconds
+0517.820 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0517.844 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0517.852 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=529) in 0.01 seconds
+0517.872 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0517.888 (0) Table wp_mystickymenu_contact_lists: Total expected rows (via COUNT): 0
+0517.892 (0) Table wp_mystickymenu_contact_lists: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.01 seconds
+0517.943 (0) Table wp_mystickymenu_contact_lists: finishing file(s) (2, 0.4 KB)
+0517.967 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0517.970 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0517.980 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=1049) in 0.03 seconds
+0518.003 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0518.007 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Tariq\Local Sites\tariqjaved\app\public/wp-content/updraft/backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz (line 1976, C:\Users\Tariq\Local Sites\tariqjaved\app\public\wp-content\plugins\updraftplus\backup.php)
+0518.014 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_options.table.tmpr1570.gz (1/19/fopen): adding to final database dump
+0518.063 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_options.table.gz (2/19/fopen): adding to final database dump
+0518.067 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_users.table.tmpr2.gz (3/19/fopen): adding to final database dump
+0518.072 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_users.table.gz (4/19/fopen): adding to final database dump
+0518.076 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_usermeta.table.tmpr32.gz (5/19/fopen): adding to final database dump
+0518.080 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_usermeta.table.gz (6/19/fopen): adding to final database dump
+0518.083 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_actions.table.tmpr31.gz (7/19/fopen): adding to final database dump
+0518.087 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_actions.table.gz (8/19/fopen): adding to final database dump
+0518.090 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/19/fopen): adding to final database dump
+0518.094 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_claims.table.gz (10/19/fopen): adding to final database dump
+0518.098 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/19/fopen): adding to final database dump
+0518.101 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_groups.table.gz (12/19/fopen): adding to final database dump
+0518.104 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_logs.table.tmpr62.gz (13/19/fopen): adding to final database dump
+0518.109 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_actionscheduler_logs.table.gz (14/19/fopen): adding to final database dump
+0518.112 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_commentmeta.table.tmpr0.gz (15/19/fopen): adding to final database dump
+0518.115 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_commentmeta.table.gz (16/19/fopen): adding to final database dump
+0518.118 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_comments.table.tmpr2.gz (17/19/fopen): adding to final database dump
+0518.122 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_comments.table.gz (18/19/fopen): adding to final database dump
+0518.126 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_links.table.tmpr0.gz (19/19/fopen): adding to final database dump
+0518.130 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_links.table.gz (20/19/fopen): adding to final database dump
+0518.133 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_postmeta.table.tmpr3843.gz (21/19/fopen): adding to final database dump
+0518.196 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_postmeta.table.gz (22/19/fopen): adding to final database dump
+0518.201 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_posts.table.tmpr1448.gz (23/19/fopen): adding to final database dump
+0518.221 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_posts.table.gz (24/19/fopen): adding to final database dump
+0518.225 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_term_relationships.table.tmpr100001.gz (25/19/fopen): adding to final database dump
+0518.229 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_term_relationships.table.gz (26/19/fopen): adding to final database dump
+0518.234 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_term_taxonomy.table.tmpr7.gz (27/19/fopen): adding to final database dump
+0518.239 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_term_taxonomy.table.gz (28/19/fopen): adding to final database dump
+0518.243 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_termmeta.table.tmpr3.gz (29/19/fopen): adding to final database dump
+0518.247 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_termmeta.table.gz (30/19/fopen): adding to final database dump
+0518.252 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_terms.table.tmpr7.gz (31/19/fopen): adding to final database dump
+0518.257 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_terms.table.gz (32/19/fopen): adding to final database dump
+0518.261 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_e_events.table.tmpr0.gz (33/19/fopen): adding to final database dump
+0518.265 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_e_events.table.gz (34/19/fopen): adding to final database dump
+0518.269 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_mystickymenu_contact_lists.table.tmpr0.gz (35/19/fopen): adding to final database dump
+0518.275 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_mystickymenu_contact_lists.table.gz (36/19/fopen): adding to final database dump
+0518.279 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_wpforms_tasks_meta.table.tmpr7.gz (37/19/fopen): adding to final database dump
+0518.283 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db-table-wp_wpforms_tasks_meta.table.gz (38/19/fopen): adding to final database dump
+0518.302 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz: finished writing out complete database file (1970.5 KB)
+0518.365 (0) Total database tables backed up: 19 (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz, size: 2017874, sha1: 845984a51747687594bbb254c24a1bcd8c68b9c5, sha256: cd6125d2a537f246c9eb03be9de10b995306529365af069a5cce6dfa70ab1287)
+0518.382 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip: plugins: This file has already been successfully uploaded
+0518.386 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip: themes: This file has already been successfully uploaded
+0518.389 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip: uploads: This file has already been successfully uploaded
+0518.393 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip: others: This file has already been successfully uploaded
+0518.396 (0) backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz: db: This file has not yet been successfully uploaded: will queue
+0518.399 (0) Saving backup history. Total backup size: 76.2 MB
+0518.408 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0518.419 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0518.422 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-02ea886173eff6047604ad761fde594b)
+0520.250 (0) Google Drive: quota usage: used=143.1 MB, total=15360 MB, available=15216.9 MB
+0520.261 (0) Google Drive: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz: Attempting to upload to Google Drive (into folder id: 1UNVu_rFLl8AzlCxxXTvULf6uPEucOl07)
+0527.514 (0) The time we have been running (527.5) is approaching the resumption interval (548) - increasing resumption interval to 558
+0527.524 (0) Googledrive chunked upload: 52 % uploaded (1048576)
+0536.851 (0) The time we have been running (536.8) is approaching the resumption interval (558) - increasing resumption interval to 567
+0536.871 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0536.895 (0) Google Drive: OK: Archive backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz uploaded in 16.63 seconds
+0536.900 (0) Recording as successfully uploaded: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz
+0536.919 (0) Deleting local file: backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-db.gz: OK
+0536.932 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0536.937 (0) Number of backup sets in history: 1; groups (db): 1
+0536.946 (0) Examining (for databases) backup set with group_id=0, nonce=e3198dbb13fa, datestamp=1685960430 (Jun 05 2023 10:20:30)
+0536.950 (0) This backup set is the backup set just made, so will not be deleted.
+0536.950 (0) Number of backup sets in history: 1; groups (files): 1
+0536.954 (0) Examining (for files) backup set with nonce=e3198dbb13fa, datestamp=1685960430 (Jun 05 2023 10:20:30)
+0536.955 (0) This backup set is the backup set just made, so will not be deleted.
+0536.968 (0) This backup set is the backup set just made, so will not be deleted.
+0536.968 (0) This backup set is the backup set just made, so will not be deleted.
+0536.969 (0) This backup set is the backup set just made, so will not be deleted.
+0536.969 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0536.973 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0536.986 (0) Resume backup (e3198dbb13fa, 0): finish run
+0537.001 (0) Decremented the semaphore (fd) by 1
+0537.011 (0) Semaphore (fd) unlocked
+0537.016 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0537.033 (0) Deleting zip manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-plugins.zip.list.tmp)
+0537.038 (0) Deleting zip manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-themes.zip.list.tmp)
+0537.049 (0) Deleting zip manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-uploads.zip.list.tmp)
+0537.054 (0) Deleting zip manifest (backup_2023-06-05-1020_Marketing_Website_e3198dbb13fa-others.zip.list.tmp)
+0537.061 (0) No email will/can be sent - the user has not configured an email address.
+0537.065 (0) The backup apparently succeeded and is now complete

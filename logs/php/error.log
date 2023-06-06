@@ -1,0 +1,5 @@
+[02-Jun-2023 06:08:36 UTC] PHP Warning:  Undefined array key "data" in C:\Users\Tariq\Local Sites\tariqjaved\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[02-Jun-2023 06:08:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Tariq\Local Sites\tariqjaved\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[02-Jun-2023 07:14:55 UTC] PHP Warning:  Undefined array key "data" in C:\Users\Tariq\Local Sites\tariqjaved\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php on line 175
+[02-Jun-2023 07:14:55 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Tariq\Local Sites\tariqjaved\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[05-Jun-2023 09:13:34 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
